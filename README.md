@@ -1,2 +1,2 @@
 # AEPAndroidSampleApp
-Android App using Kotlin and Jetpack Compose to test Adobe Experience Platform SDK for Android
+Android App using [Kotlin](https://github.com/JetBrains/kotlin) and [Jetpack Compose](https://developer.android.com/jetpack/compose) to test [Adobe Experience Platform SDK](https://developer.adobe.com/client-sdks/documentation/) for Android
